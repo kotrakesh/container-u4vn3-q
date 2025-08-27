@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Aug 27 2025)
+
+#### 🐛 Bug Fix
+
+- Update content block with new text [#1](https://github.com/kotrakesh/container-u4vn3-q/pull/1) ([@kotrakesh](https://github.com/kotrakesh))
+
+#### Authors: 1
+
+- Rakesh Kotian ([@kotrakesh](https://github.com/kotrakesh))
+
+---
+
 # v0.0.1 (Wed Aug 27 2025)
 
 :tada: This release contains work from a new contributor! :tada:
